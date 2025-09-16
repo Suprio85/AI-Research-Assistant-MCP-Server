@@ -1,0 +1,5 @@
+ArXiv API :  https://info.arxiv.org/help/api/
+Semantic Scholar API : https://www.semanticscholar.org/product/api
+CrossRef API : https://api.crossref.org/swagger-ui/index.html
+Wikipedia API : https://www.mediawiki.org/wiki/API:Action_API
+Brave Search API : https://brave.com/search/api/
